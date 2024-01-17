@@ -1,16 +1,22 @@
-### Hi there 👋
 
-<!--
-**pankaj-katyare/pankaj-katyare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey Everyone! I'm Pankaj Katyare
 
-Here are some ideas to get you started:
+LinkdeInGithub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+| Full Stack Developer | Systems Architect | Backend Developer |
+
+⚡ Software developer & Tech enthusiast
+💼 Working with Encora Innovation Lab YC 2023
+🧑🏽 1X startup co-founder - Profusion Tech
+👨‍🎓 BE Computer Science & Engineering from R. C. Patel Institute of Technology, Shirpur
+
+Github Stats
+   
+
+
+🏆 GitHub Profile Trophy:
+
+
+
